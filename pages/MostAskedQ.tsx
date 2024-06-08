@@ -1,6 +1,6 @@
 // app.tsx
 import React from "react";
-import FAQ from "@/components/Faq"; 
+import FAQ from "../components/Faq"; 
 
 const MostAskedQ: React.FC = () => {
   // Define the list of FAQ items

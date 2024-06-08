@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useSwipeable } from 'react-swipeable';
 import InfoCard from './GPTStore'; // Import the InfoCard component
-import CodeEditorCard from '@/components/CodeEditorCard'; // Import the CodeEditorCard component
+import CodeEditorCard from '../components/CodeEditorCard'; // Import the CodeEditorCard component
 
 const SwipeableCard: React.FC = () => {
   // State to keep track of the current card index

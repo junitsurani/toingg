@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useSwipeable } from 'react-swipeable';
-import Cards from '@/components/Cards';
+import Cards from '../components/Cards';
 
 // Array of card data
 const cards = [
