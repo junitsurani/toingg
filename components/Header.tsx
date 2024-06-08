@@ -26,7 +26,7 @@ const Header = () => {
         
         {/* Menu toggle icon */}
         <img 
-          src='https://s3-alpha-sig.figma.com/img/0b82/1028/11e4ba496cbcbc24f27a7b05874fe99d?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LlIGFgTHrHaK0TgZ0R-TV-rVFBB3YeiQ5wftCwswaVtqFxdRnth-BWDFDy-sEgJtXi0Y10PocLb9KhaOmY0LgCodaDwKNqX2WLY~KmWA5Gy3aoEPdqNgBIr7muNH1~6y9GIKufDdRNbKjxwdHnCaPBgJSGc9P06gohauNfyU7WPAQVhb8Ogv2XYUfupNmY9kV3sy9L2WXE1YLijP2PTmU3bUy19ALK1Z3zeECCZcbwMVpJjAta2-2Ux8nhmCFnjRvH-VOmFtOMr~GBAc-kvMSsKCyeiaADwaPtyJjJw3RKk3v4ehdzqjyJXhnFCnBV4jLv8ufTcWzYmatOT48K3Tag__' 
+          src='https://s3-alpha-sig.figma.com/img/0b82/1028/11e4ba496cbcbc24f27a7b05874fe99d?Expires=1718582400&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=LlIGFgTHrHaK0TgZ0R-TV-rVFBB3YeiQ5wftCwswaVtqFxdRnth-BWDFDy-sEgJtXi0Y10PocLb9KhaOmY0LgCodaDwKNqX2WLY~KmWA5Gy3aoEPdqNgBIr7muNH1~6y9GIKufDdRNbKjxwdHnCaPBgJSGc9P06gohauNfyU7WPAQVhb8Ogv2XYUfupNmY9kV3sy9L2WXE1YLijP2PTmU3bUy19ALK1Z3zeECCZcbwMVpJjAta2-2Ux8nhmCFnjRvH-VOmFtOMr~GBAc-kvMSsKCyeiaADwaPtyJjJw3RKk3v4ehdzqjyJXhnFCnBV4jLv8ufTcWzYmatOT48K3Tag__' 
           height={32} 
           width={44} 
           onClick={toggleMenu}
@@ -52,7 +52,7 @@ const Header = () => {
             }}
           >
             <span>Build your own voice agent</span>
-            <span className='text-black text-base font-medium'>"It's free!"</span>
+            <span className='text-black text-base font-medium'>&quot;It&apos;s free!&quot;</span>
           </button>
         </div>
         
