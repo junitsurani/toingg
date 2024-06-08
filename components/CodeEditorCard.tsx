@@ -16,9 +16,9 @@ const CodeEditorCard: React.FC = () => {
       <div className="bg-black p-4 rounded-b-lg h-80">
         {/* Preformatted text for code display */}
         <pre className="text-white">
-          {/* Code snippet */}
-          <code>print("Hello, World!")</code>
-        </pre>
+        {/* Code snippet */}
+        <code>print(&quot;Hello, World!&quot;)</code>
+      </pre>
       </div>
       {/* Language selection section with background color, padding, rounded corners, and flex layout */}
       <div className="bg-gray-300 p-4 mt-4 rounded-lg flex justify-around">
