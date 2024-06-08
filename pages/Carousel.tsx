@@ -25,7 +25,7 @@ const cards = [
   {
     imageSrc: 'https://s3-alpha-sig.figma.com/img/7b38/253f/53e66b37858179a705087ef6feecbd47?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=J0Sw3To13t9AdeoQB0VHPH9ZCwkA0FfoXg0olN8rfgRl6m-xlxd6vdPsGZNDouiNekMiL8tvm9cSoao7iod8ThViZ9NBRpBmsiCUc2QO5jF9V3UcSB4tFYE-xN5cqKmGQ2eRdSoxDTqJYn9422O8p4xpnxaewY~wsRylWfR6RuHL2II8x3IRDZorpa~HGF7o-KjRnuuQjU56CtYAkcPbXgCiVqHW~~B~i-kWrTcJaPee5p3pfYEHrynKyKA1BTruJJMPUso1wzBdpLMwAeRlMms51SKJVdniWJ-YR7dnJ7HZErsvcL4hkn~LU7caRrHD2IbqdWCbHBuqTITA6WtUyw__', // Replace with your image link
     title: 'Dynamic Conversational Flows',
-    description: 'Navigate through complex conversations with ease, thanks to our AI\'s ability to understand and adapt to various conversational pathways.',
+    description: 'Navigate through complex conversations with ease, thanks to our AI&#39;s ability to understand and adapt to various conversational pathways.',
     buttonText: 'Try now',
   },
   {
@@ -35,7 +35,7 @@ const cards = [
     buttonText: 'Try now',
   },
   {
-    imageSrc: 'https://s3-alpha-sig.figma.com/img/3e88/bb35/89cc30c4a8ce8e91a444f000a1039bec?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nF3ZX4U-gqsodDD~xCzb~Yc~D2l4WuYzZ551tFbmespnRt1n6FgODLgKjjc6OWybpF51qRXwKdXTYUP4P3Ljd7a3nSXfekf6QAWJCBbZvMSgziwu9vUDdclX~mUMWlM5q7ZyyNPzTkTVbiQcIrOBwfuEto00eNOBYFrcDrQ~0LXQshtYyJM4Zu3lJelOG6Ncr0MbpqKAgRZ6VCOEYpCAeCHyQh9N4Qocc3NGDWNsrnfSRH3QwollYzctdWHSwdNvqLFNuK9FSWh3jMFNI49sC7da6SIh3llLQ0tRlQzHNzksliD6tsJIeGIpESJAemp~Nt0cF-F9p4bpPALg8go94Q__', // Replace with your image link
+    imageSrc: 'https://s3-alpha-sig.figma.com/img/3e88/bb35/89cc30c4a8ce8e91a444f000a1039bec?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nF3ZX4U-gqsodDD~xCzb~Yc~D2l4WuYzZ551tFbmespnRt1n6FgODLgKjjc6OWybpF51qRXwKdXTYUP4P3Ljd7a3nSXfekf6QAWJCBbZvMSgziwu9vUDdcloGLcLFg6klZ1atXloTpZnHq1-iE0MbpqKAgRZ6VCOEYpCAeCHyQh9N4Qocc3NGDWNsrnfSRH3QwollYzctdWHSwdNvqLFNuK9FSWh3jMFNI49sC7da6SIh3llLQ0tRlQzHNzksliD6tsJIeGIpESJAemp~Nt0cF-F9p4bpPALg8go94Q__', // Replace with your image link
     title: 'Scalability at Your Fingertips',
     description: 'From one-on-one conversations to managing 10,000 concurrent calls, our platform scales effortlessly with your business.',
     buttonText: 'Try now',
