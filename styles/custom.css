@@ -1,0 +1,30 @@
+.splashed-orange {
+    background: linear-gradient(135deg, rgba(255, 165, 0, 0.5) 25%, transparent 25%) -50px 0,
+                linear-gradient(225deg, rgba(255, 165, 0, 0.5) 25%, transparent 25%) -50px 0,
+                linear-gradient(315deg, rgba(255, 165, 0, 0.5) 25%, transparent 25%),
+                linear-gradient(45deg, rgba(255, 165, 0, 0.5) 25%, transparent 25%);
+    background-size: 100px 100px;
+  }
+  
+  .grayscale {
+    filter: grayscale(100%);
+  }
+  
+  .button-color {
+    background: 'linear-gradient(to right, rgba(255, 169, 107, 1), rgba(153, 91, 46, 1))'
+  }
+
+.linear-gradient-button {
+    background: linear-gradient(to right, rgba(252, 152, 80, 1), rgba(173, 76, 6, 1));
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .linear-gradient-button:hover {
+    filter: brightness(1.1); /* Optional: makes the button slightly brighter on hover */
+  }
+  
