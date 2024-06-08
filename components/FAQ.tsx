@@ -41,5 +41,5 @@ const FAQ: React.FC<FAQProps> = ({ items }) => {
   );
 };
 
-// Export the FAQ component
+// !Export the FAQ component
 export default FAQ;
